@@ -7,3 +7,8 @@ This is a sample readme file for our Github Example repo.
 
 ## Link Example
  [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+ 1. Item One
+ 2. Item Two
+ 3. Item Three
